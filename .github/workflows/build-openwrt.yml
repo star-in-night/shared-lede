@@ -8,7 +8,6 @@
 # The firmware code comes from openwrt
 #
 name: build openwrt
-
 on:
   workflow_dispatch:
     inputs:
